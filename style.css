@@ -1,0 +1,35 @@
+* {
+    font-family: "DM Sans",Helvetica, Arial, sans-serif;
+    background-color:#fff0db;
+    padding: 10px;
+    color: navy;
+}
+
+h1 {
+    color: navy;
+}
+
+ul {
+    color:navy;
+    font-weight: bolder;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.homepage {
+    text-align: center;
+}
+
+.homepage ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.newadd {
+    color: navy;
+    font-size: 16px;
+    margin-top: 50px;
+}
